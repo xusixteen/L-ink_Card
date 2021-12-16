@@ -19,6 +19,8 @@
 > imagedithering.py
 
 > ![](nfc_card/image/1.jpg)
+> 
+> ![](nfc_card/image/2.jpg)
 
 ### 另外记录过程中踩过的几个坑
 
