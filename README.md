@@ -18,7 +18,7 @@
 
 > imagedithering.py
 
-> 
+> []!(https://github.com/xusixteen/L-ink_Card/blob/master/nfc_card/image/1.jpg)
 
 ### 另外记录过程中踩过的几个坑
 
