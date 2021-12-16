@@ -1,3 +1,9 @@
+## 复刻了稚辉君大佬的项目，并进行了一些改进。
+* 感谢两位的无私奉献
+* 
+* [simonire](https://github.com/simonire)
+* [稚辉君](https://github.com/peng-zhihui)
+---
 # [L-ink]电子墨水屏NFC智能卡片
 > 这是为了解决个人使用IC卡时遇到的一些痛点设计的一个迷你NFC智能卡片，基于STM32L051和ST25DV。
 >
